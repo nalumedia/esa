@@ -1,0 +1,90 @@
+[03-Dec-2020 20:41:08 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 10
+[03-Dec-2020 20:41:08 UTC] PHP Stack trace:
+[03-Dec-2020 20:41:08 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:41:08 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:41:08 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:41:08 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:41:09 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 10
+[03-Dec-2020 20:41:09 UTC] PHP Stack trace:
+[03-Dec-2020 20:41:09 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:41:09 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:41:09 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:41:09 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:42:29 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:42:29 UTC] PHP Stack trace:
+[03-Dec-2020 20:42:29 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:42:29 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:42:29 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:42:29 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:42:29 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:42:29 UTC] PHP Stack trace:
+[03-Dec-2020 20:42:29 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:42:29 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:42:29 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:42:29 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:42:51 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:42:51 UTC] PHP Stack trace:
+[03-Dec-2020 20:42:51 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:42:51 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:42:51 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:42:51 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:42:51 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:42:51 UTC] PHP Stack trace:
+[03-Dec-2020 20:42:51 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:42:51 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:42:51 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:42:51 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:42:55 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:42:55 UTC] PHP Stack trace:
+[03-Dec-2020 20:42:55 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:42:55 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:42:55 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:42:55 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:43:18 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:43:18 UTC] PHP Stack trace:
+[03-Dec-2020 20:43:18 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:43:18 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:43:18 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:43:18 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:43:18 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:43:18 UTC] PHP Stack trace:
+[03-Dec-2020 20:43:18 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:43:18 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:43:18 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:43:18 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:44:07 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:44:07 UTC] PHP Stack trace:
+[03-Dec-2020 20:44:07 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:44:07 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:44:07 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:44:07 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:44:07 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:44:07 UTC] PHP Stack trace:
+[03-Dec-2020 20:44:07 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:44:07 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:44:07 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:44:07 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:45:22 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:45:22 UTC] PHP Stack trace:
+[03-Dec-2020 20:45:22 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:45:22 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:45:22 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:45:22 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:45:22 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:45:22 UTC] PHP Stack trace:
+[03-Dec-2020 20:45:22 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:45:22 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:45:22 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:45:22 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:46:11 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:46:11 UTC] PHP Stack trace:
+[03-Dec-2020 20:46:11 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:46:11 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:46:11 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:46:11 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
+[03-Dec-2020 20:46:11 UTC] PHP Warning:  Use of undefined constant template_directory - assumed 'template_directory' (this will throw an Error in a future version of PHP) in /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-content/themes/squatch/index.php on line 11
+[03-Dec-2020 20:46:11 UTC] PHP Stack trace:
+[03-Dec-2020 20:46:11 UTC] PHP   1. {main}() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:0
+[03-Dec-2020 20:46:11 UTC] PHP   2. require() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/index.php:17
+[03-Dec-2020 20:46:11 UTC] PHP   3. require_once() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-blog-header.php:19
+[03-Dec-2020 20:46:11 UTC] PHP   4. include() /Users/ryandranginis/Local Sites/encinitas-sasquatch-association/app/public/wp-includes/template-loader.php:106
